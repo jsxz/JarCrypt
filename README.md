@@ -3,6 +3,10 @@
 </p>
 
 # JarCrypt
+[![Build Status](https://travis-ci.org/kkrypt0nn/JarCrypt.svg?branch=master)](https://travis-ci.org/kkrypt0nn/JarCrypt)
+[![java Versions](https://img.shields.io/badge/java-1.8-orange)](https://java.com)
+[![Library Version](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/kkrypt0nn/JarCrypt/releases)
+
 JarCrypt is a java library made by Krypton so that it is easier for everyone to encrypt, decrypt and decode messages.
 
 ## Getting Started
