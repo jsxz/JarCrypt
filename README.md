@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="170" height="170" src="https://raw.githubusercontent.com/kkrypt0nn/JarCrypt/master/logo.png">
+</p>
+
 # JarCrypt
 JarCrypt is a java library made by Krypton so that it is easier for everyone to encrypt, decrypt and decode messages.
 
