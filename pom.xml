@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <asm.version>7.0</asm.version>
+    </properties>
+
+    <groupId>spacelab.krypton.jarcrypt</groupId>
+    <artifactId>jarcrypt</artifactId>
+    <version>1.0.0</version>
+
+</project>
