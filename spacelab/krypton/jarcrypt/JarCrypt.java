@@ -13,7 +13,7 @@ import java.util.Calendar;
  * @copyright Copyright ©2019 Krypton
  * @credits
  * @licence Apache 2.0
- * @version 1.0.0
+ * @version 1.1.0
  * @maintainer Krypton
  * @status Development (Alpha Build)
  */
@@ -24,7 +24,7 @@ public class JarCrypt {
     private String libraryCopyright = "Copyright ©2019-" + Calendar.getInstance().get(Calendar.YEAR) + " Krypton";
     private ArrayList<String> libraryCredits = new ArrayList<String>();
     private String libraryLicence = "Apache 2.0";
-    private String libraryVersion = "1.0.0";
+    private String libraryVersion = "1.1.0";
     private String libraryMaintainer = "Krypton";
     private String libraryStatus = "Development (Alpha Build)";
 
